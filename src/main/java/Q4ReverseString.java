@@ -10,4 +10,12 @@ public class Q4ReverseString {
         System.out.println("Reversing: " + s);
         return reverse(s.substring(1)) + s.charAt(0);
     }
+     public static void main(String[] args) {
+        String input = "test string";
+        String reversed = reverse(input);
+        System.out.println("Original: " + input);
+        System.out.println("Reversed: " + reversed);
+    }
+}
+
 }
