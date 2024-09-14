@@ -7,6 +7,7 @@ public class Q4ReverseString {
         if (s == null || s.length() <= 1) {
             return s;
         }
+        System.out.println("Reversing: " + s);
         return reverse(s.substring(1)) + s.charAt(0);
     }
 }
