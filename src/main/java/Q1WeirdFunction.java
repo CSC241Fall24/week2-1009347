@@ -33,10 +33,10 @@ public class Q1WeirdFunction {
     return result;
    }
    
-   /* public static void main(String[] args) {
+   public static void main(String[] args) {
         System.out.println("Recursive result for n=4: " + fRecursive(4));
 
         System.out.println("Iterative result for n=4: " + fIterative(4));
     }
-    */
+    
 }
