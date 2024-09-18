@@ -17,5 +17,3 @@ public class Q4ReverseString {
         System.out.println("Reversed: " + reversed);
     }
 }
-
-}
