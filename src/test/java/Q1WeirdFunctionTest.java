@@ -22,3 +22,5 @@ public class Q1WeirdFunctionTest {
         assertEquals(11, Q1WeirdFunction.fIterative(4));
     }
 }
+
+
